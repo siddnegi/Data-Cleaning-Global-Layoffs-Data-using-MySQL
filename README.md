@@ -14,7 +14,7 @@ Process after my arrival:
 - Clean the data myself using just MySQL & Python whenever required ( THIS PROJECT COVERS THIS STEP )
 - Leveraged GenAI to run complex queries & scripts that are out of my expertise.
 - Conduct sanatisation checks.
-- Handover data to analyst for integration and collaborate with analys for analysis.
+- Handover data to analyst for integration and collaborate with analyst for analysis.
 - Create reports myself and shared with stakeholders.
 - Took key product decisions based on insights in the report.
 
