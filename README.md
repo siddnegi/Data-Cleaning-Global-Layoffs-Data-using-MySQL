@@ -20,7 +20,7 @@ Process after my arrival:
 
 Outcomes:
 - Reduced time to conduct ad-hoc exploratory analysis by 20%
-- Reduced time shipping time (product changes, features, new builds) by 15% 
+- Reduced shipping time (product changes, features, new builds) by 15% 
 - Got first hand insights of our customer data which helped in making robust management decisons.
 
 In this project, I have taken the layoff data of various companies accross the globe during covid. This dataset is very rich and is similar to the type of data I worked with in my previous company.
